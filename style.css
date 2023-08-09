@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    
+}
+#main{
+    border: 2px solid rgb(37, 21, 1);
+    padding: 10px 30px 40px 60px;
+
+}
+#btn{
+    color: beige;
+    background-color: black;
+    
+}
